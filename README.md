@@ -14,7 +14,14 @@
 ![image](https://github.com/300-Akbank-Net-Bootcamp/aw-2-InancYucel/assets/48295407/ec0bcb06-e3a4-4c89-8748-90c224026b0e)
 ## Account GetID Kontrolcüsü
 ![image](https://github.com/300-Akbank-Net-Bootcamp/aw-2-InancYucel/assets/48295407/7e4bee86-b14c-4c97-bbe4-3cab8a604567)
-## Account 
+## Account Post Kontrolcüsü
+![image](https://github.com/300-Akbank-Net-Bootcamp/aw-2-InancYucel/assets/48295407/d2a47c34-cd26-4b46-8f4a-c29752a37bbe)
+## Customer Put Kontrolcüsü
+![image](https://github.com/300-Akbank-Net-Bootcamp/aw-2-InancYucel/assets/48295407/e4103778-d298-42c2-914c-121bf8351519)
+## EftTransaction Delete Kontrolcüsü
+![image](https://github.com/300-Akbank-Net-Bootcamp/aw-2-InancYucel/assets/48295407/4eab9dd1-afe2-4c58-a7b1-9ae46c8adef9)
+
+
 
 
 
