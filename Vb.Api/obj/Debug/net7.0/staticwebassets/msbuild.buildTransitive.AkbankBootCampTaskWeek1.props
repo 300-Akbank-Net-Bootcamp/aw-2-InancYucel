@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AkbankBootCampTaskWeek1.props" />
+</Project>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AkbankBootCampTaskWeek1.props" />
+</Project>

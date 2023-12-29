@@ -1,0 +1,34 @@
+C:\Users\inanc\OneDrive\Masaüstü\Akbank\Kodlar\AkbankBootCampTaskWeek1\Vb.Data\bin\Debug\net7.0\Vb.Data.deps.json
+C:\Users\inanc\OneDrive\Masaüstü\Akbank\Kodlar\AkbankBootCampTaskWeek1\Vb.Data\bin\Debug\net7.0\Vb.Data.runtimeconfig.json
+C:\Users\inanc\OneDrive\Masaüstü\Akbank\Kodlar\AkbankBootCampTaskWeek1\Vb.Data\bin\Debug\net7.0\Vb.Data.dll
+C:\Users\inanc\OneDrive\Masaüstü\Akbank\Kodlar\AkbankBootCampTaskWeek1\Vb.Data\bin\Debug\net7.0\Vb.Data.pdb
+C:\Users\inanc\OneDrive\Masaüstü\Akbank\Kodlar\AkbankBootCampTaskWeek1\Vb.Data\bin\Debug\net7.0\Vb.Base.dll
+C:\Users\inanc\OneDrive\Masaüstü\Akbank\Kodlar\AkbankBootCampTaskWeek1\Vb.Data\bin\Debug\net7.0\Vb.Base.pdb
+C:\Users\inanc\OneDrive\Masaüstü\Akbank\Kodlar\AkbankBootCampTaskWeek1\Vb.Data\obj\Debug\net7.0\Vb.Data.csproj.AssemblyReference.cache
+C:\Users\inanc\OneDrive\Masaüstü\Akbank\Kodlar\AkbankBootCampTaskWeek1\Vb.Data\obj\Debug\net7.0\Vb.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inanc\OneDrive\Masaüstü\Akbank\Kodlar\AkbankBootCampTaskWeek1\Vb.Data\obj\Debug\net7.0\Vb.Data.AssemblyInfoInputs.cache
+C:\Users\inanc\OneDrive\Masaüstü\Akbank\Kodlar\AkbankBootCampTaskWeek1\Vb.Data\obj\Debug\net7.0\Vb.Data.AssemblyInfo.cs
+C:\Users\inanc\OneDrive\Masaüstü\Akbank\Kodlar\AkbankBootCampTaskWeek1\Vb.Data\obj\Debug\net7.0\Vb.Data.csproj.CoreCompileInputs.cache
+C:\Users\inanc\OneDrive\Masaüstü\Akbank\Kodlar\AkbankBootCampTaskWeek1\Vb.Data\obj\Debug\net7.0\Vb.Data.csproj.CopyComplete
+C:\Users\inanc\OneDrive\Masaüstü\Akbank\Kodlar\AkbankBootCampTaskWeek1\Vb.Data\obj\Debug\net7.0\Vb.Data.dll
+C:\Users\inanc\OneDrive\Masaüstü\Akbank\Kodlar\AkbankBootCampTaskWeek1\Vb.Data\obj\Debug\net7.0\refint\Vb.Data.dll
+C:\Users\inanc\OneDrive\Masaüstü\Akbank\Kodlar\AkbankBootCampTaskWeek1\Vb.Data\obj\Debug\net7.0\Vb.Data.pdb
+C:\Users\inanc\OneDrive\Masaüstü\Akbank\Kodlar\AkbankBootCampTaskWeek1\Vb.Data\obj\Debug\net7.0\Vb.Data.genruntimeconfig.cache
+C:\Users\inanc\OneDrive\Masaüstü\Akbank\Kodlar\AkbankBootCampTaskWeek1\Vb.Data\obj\Debug\net7.0\ref\Vb.Data.dll
+C:\Users\inanc\OneDrive\Masaüstü\Akbank\Kodlar\İkinci Hafta\Ödev\Week2_Task_Controllers\Vb.Data\bin\Debug\net7.0\Vb.Data.deps.json
+C:\Users\inanc\OneDrive\Masaüstü\Akbank\Kodlar\İkinci Hafta\Ödev\Week2_Task_Controllers\Vb.Data\bin\Debug\net7.0\Vb.Data.runtimeconfig.json
+C:\Users\inanc\OneDrive\Masaüstü\Akbank\Kodlar\İkinci Hafta\Ödev\Week2_Task_Controllers\Vb.Data\bin\Debug\net7.0\Vb.Data.dll
+C:\Users\inanc\OneDrive\Masaüstü\Akbank\Kodlar\İkinci Hafta\Ödev\Week2_Task_Controllers\Vb.Data\bin\Debug\net7.0\Vb.Data.pdb
+C:\Users\inanc\OneDrive\Masaüstü\Akbank\Kodlar\İkinci Hafta\Ödev\Week2_Task_Controllers\Vb.Data\bin\Debug\net7.0\Vb.Base.dll
+C:\Users\inanc\OneDrive\Masaüstü\Akbank\Kodlar\İkinci Hafta\Ödev\Week2_Task_Controllers\Vb.Data\bin\Debug\net7.0\Vb.Base.pdb
+C:\Users\inanc\OneDrive\Masaüstü\Akbank\Kodlar\İkinci Hafta\Ödev\Week2_Task_Controllers\Vb.Data\obj\Debug\net7.0\Vb.Data.csproj.AssemblyReference.cache
+C:\Users\inanc\OneDrive\Masaüstü\Akbank\Kodlar\İkinci Hafta\Ödev\Week2_Task_Controllers\Vb.Data\obj\Debug\net7.0\Vb.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inanc\OneDrive\Masaüstü\Akbank\Kodlar\İkinci Hafta\Ödev\Week2_Task_Controllers\Vb.Data\obj\Debug\net7.0\Vb.Data.AssemblyInfoInputs.cache
+C:\Users\inanc\OneDrive\Masaüstü\Akbank\Kodlar\İkinci Hafta\Ödev\Week2_Task_Controllers\Vb.Data\obj\Debug\net7.0\Vb.Data.AssemblyInfo.cs
+C:\Users\inanc\OneDrive\Masaüstü\Akbank\Kodlar\İkinci Hafta\Ödev\Week2_Task_Controllers\Vb.Data\obj\Debug\net7.0\Vb.Data.csproj.CoreCompileInputs.cache
+C:\Users\inanc\OneDrive\Masaüstü\Akbank\Kodlar\İkinci Hafta\Ödev\Week2_Task_Controllers\Vb.Data\obj\Debug\net7.0\Vb.Data.csproj.CopyComplete
+C:\Users\inanc\OneDrive\Masaüstü\Akbank\Kodlar\İkinci Hafta\Ödev\Week2_Task_Controllers\Vb.Data\obj\Debug\net7.0\Vb.Data.dll
+C:\Users\inanc\OneDrive\Masaüstü\Akbank\Kodlar\İkinci Hafta\Ödev\Week2_Task_Controllers\Vb.Data\obj\Debug\net7.0\refint\Vb.Data.dll
+C:\Users\inanc\OneDrive\Masaüstü\Akbank\Kodlar\İkinci Hafta\Ödev\Week2_Task_Controllers\Vb.Data\obj\Debug\net7.0\Vb.Data.pdb
+C:\Users\inanc\OneDrive\Masaüstü\Akbank\Kodlar\İkinci Hafta\Ödev\Week2_Task_Controllers\Vb.Data\obj\Debug\net7.0\Vb.Data.genruntimeconfig.cache
+C:\Users\inanc\OneDrive\Masaüstü\Akbank\Kodlar\İkinci Hafta\Ödev\Week2_Task_Controllers\Vb.Data\obj\Debug\net7.0\ref\Vb.Data.dll
